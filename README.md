@@ -2,6 +2,25 @@
 
 This project compares four different methods for generating uniformly distributed random points within a unit circle. Each method is implemented in Python, visualized, and analyzed for performance.
 
+## Motivation
+The BEST Way to Find a Random Point in a Circle YouTube found at https://www.youtube.com/watch?v=4y_nmpv-9lI
+
+Sources used:
+https://stackoverflow.com/questions/5...
+https://www.hindawi.com/journals/ijmm...
+https://programming.guide/random-poin...
+
+Chapters:
+0:00 Introduction
+0:23 Rejection Sampling
+2:59 Coordinate Systems
+4:59 Inverse Transform Sampling
+10:34 Infinite Triangle Sampling
+12:49 random() + random() vs random() * 2
+13:59 Irwin-Hall Distribution
+16:17 max(random(), random())
+17:37 Conclusion
+
 ## Methods
 
 ### 1. Rejection Sampling
