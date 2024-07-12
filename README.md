@@ -5,21 +5,21 @@ This project compares four different methods for generating uniformly distribute
 ## Motivation
 The BEST Way to Find a Random Point in a Circle YouTube found at https://www.youtube.com/watch?v=4y_nmpv-9lI
 
-Sources used:
+YouTube Sources used:
 1. https://stackoverflow.com/questions/5837572/generate-a-random-point-within-a-circle-uniformly
 3. https://onlinelibrary.wiley.com/doi/10.1155/2017/3571419#derivation-of-the-irwin-hall-distribution
 4. https://programming.guide/random-point-within-circle.html#google_vignette
 
-Chapters:
-0:00 Introduction
-0:23 Rejection Sampling
-2:59 Coordinate Systems
-4:59 Inverse Transform Sampling
-10:34 Infinite Triangle Sampling
-12:49 random() + random() vs random() * 2
-13:59 Irwin-Hall Distribution
-16:17 max(random(), random())
-17:37 Conclusion
+YouTube Chapters:
+1. Introduction
+2. Rejection Sampling
+3. Coordinate Systems
+4. Inverse Transform Sampling
+5. Infinite Triangle Sampling
+6. random() + random() vs random() * 2
+7. Irwin-Hall Distribution
+8. max(random(), random())
+9. Conclusion
 
 ## Methods
 
