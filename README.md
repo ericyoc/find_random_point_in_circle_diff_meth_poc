@@ -6,9 +6,9 @@ This project compares four different methods for generating uniformly distribute
 The BEST Way to Find a Random Point in a Circle YouTube found at https://www.youtube.com/watch?v=4y_nmpv-9lI
 
 Sources used:
-https://stackoverflow.com/questions/5...
-https://www.hindawi.com/journals/ijmm...
-https://programming.guide/random-poin...
+1. https://stackoverflow.com/questions/5837572/generate-a-random-point-within-a-circle-uniformly
+3. https://onlinelibrary.wiley.com/doi/10.1155/2017/3571419#derivation-of-the-irwin-hall-distribution
+4. https://programming.guide/random-point-within-circle.html#google_vignette
 
 Chapters:
 0:00 Introduction
